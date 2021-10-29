@@ -1,9 +1,7 @@
 # Pixel Placer
 
 
-**Pixel Placer is an r/place type website that allows for multiple users to contribute to a single canvas**
-
-*Pixel Placer is currently hosted at [dougwyork.com](https://dougwyork.com)*
+**Pixel Placer is an Reddit r/place type site that allows for multiple users to contribute to a single canvas**
 
 ![pixlplacer](https://user-images.githubusercontent.com/26613326/51764681-c2b65c80-20a3-11e9-83e9-6d89bcb26dfe.png)
 
